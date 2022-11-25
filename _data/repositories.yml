@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fshipy
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - fshipy/COVIDNet-Assistant
+  - fshipy/anime.ai
+  - fshipy/Image-Classification-Semi-Supervised-Learning
+  - fshipy/ai-breaker
